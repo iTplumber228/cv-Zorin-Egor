@@ -5,9 +5,9 @@
 
 #### Contact
 
-[![LinkedIn Profile]]()
-[![Email]](zorinsegor@gmail.com)
-[![GitHub Profile]](https://github.com/iTplumber228)
+[[LinkedIn Profile]]()
+[[Email]](zorinsegor@gmail.com)
+[[GitHub Profile]](https://github.com/iTplumber228)
 
 
 #### Navigation
@@ -48,8 +48,7 @@
           <li>HTML</li>
           <li>CSS</li>
           <li>Javascript</li>
-
-        </ul>
+  </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
@@ -75,14 +74,6 @@
 </table>
 
 ## Experience
-
-**[MOO](https://www.moo.com/uk/), Lead Technical Recruiter**
-_(July 2017 - Aug 2020)_
-
-Responsibilities :
-
-
-Key achievements:
 
 
 ## Skills
