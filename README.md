@@ -78,8 +78,6 @@
 
 ## Skills
 
-#### Fast Learner
-
 
 #### Problem Solver
 
